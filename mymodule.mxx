@@ -1,0 +1,6 @@
+export;
+
+export module mymodule;
+
+export void func() {}
+
